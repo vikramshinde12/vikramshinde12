@@ -14,13 +14,13 @@
 
 Here are some ideas about myself :)
 
-- 🔭 I’m currently working on **DevOps**, **Cloud**
+- 🔭 I’m currently working on **DevOps**, **Google Cloud**, **AWS**
 - 🌱 I’m currently learning *Different Architectures*, *Python Deep Dive*
 - 👯 I’m looking to collaborate on *DevOps, SRE, Python APIs* 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/vikrampshinde/
-- 😄 Pronouns: ...
+- 😄 My blog: https://vikramshinde.medium.com/
 - ⚡ Fun fact: Loves coding, working on different usecases, Playing guitar.
 
 
